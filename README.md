@@ -1,5 +1,5 @@
 # WeRateDogs-Data-Wrangling-using-Twitter-API
-The repo contains an .ipynb file that does the following:
+The repo contains a .ipynb file that does the following:
 - Use Tweepy to query Twitter's API for data included in the WeRateDogs Twitter archive, assess and clean dataset by pulling dog tweets in order to create interesting and trustworthy analyses and visualizations. 
 
 - Once the twitter data will be pulled, I intend to use Data wrangling techniques to gather, assess and clean data, using manual and programmatic assessment. I will be using multiple Python libraries and functions to do the entire data wrangling exercise
