@@ -1,4 +1,17 @@
 # WeRateDogs-Data-Wrangling-using-Twitter-API
+
+**Install**
+This project requires Python 3.x and the following Python libraries installed:
+
+NumPy
+Pandas
+matplotlib
+
+You will also need to have software installed to run and execute an iPython Notebook
+
+Install Anaconda, a pre-packaged Python distribution that contains all of the necessary libraries and software for this project.
+
+**About the repo**
 The repo contains a .ipynb file that does the following:
 - Use Tweepy to query Twitter's API for data included in the WeRateDogs Twitter archive, assess and clean dataset by pulling dog tweets in order to create interesting and trustworthy analyses and visualizations. 
 
