@@ -1,3 +1,4 @@
+# Data wrangline
 # WeRateDogs-Data-Wrangling-using-Twitter-API
 
 **Install**
@@ -10,6 +11,21 @@ This project requires Python 3.x and the following Python libraries installed:
 You will also need to have software installed to run and execute an iPython Notebook
 
 Install Anaconda, a pre-packaged Python distribution that contains all of the necessary libraries and software for this project.
+
+### Run
+
+In a terminal or command window, navigate to the top-level project directory `finding_donors/` (that contains this README) and run one of the following commands:
+
+```bash
+ipython notebook finding_donors.ipynb
+```  
+or
+```bash
+jupyter notebook finding_donors.ipynb
+```
+
+This will open the iPython Notebook software and project file in your browser.
+
 
 **About the repo**
 The repo contains a .ipynb file that does the following:
