@@ -1,4 +1,4 @@
-# Data wrangline
+# Data wrangling
 # WeRateDogs-Data-Wrangling-using-Twitter-API
 
 **Install**
