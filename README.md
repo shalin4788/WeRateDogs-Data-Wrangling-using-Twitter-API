@@ -8,6 +8,7 @@ This project requires Python 3.x and the following Python libraries installed:
 - [Pandas](http://pandas.pydata.org)
 - [matplotlib](http://matplotlib.org/)
 - [tweepy](https://www.tweepy.org/)
+- [json](https://docs.python.org/3/library/json.html)
 
 You will also need to have software installed to run and execute an iPython Notebook
 
