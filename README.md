@@ -16,7 +16,7 @@ Install Anaconda, a pre-packaged Python distribution that contains all of the ne
 
 ### Run
 
-In a terminal or command window, navigate to the top-level project directory `finding_donors/` (that contains this README) and run one of the following commands:
+In a terminal or command window, navigate to the top-level project directory `WeRateDogs-Data-Wrangling-using-Twitter-API/` (that contains this README) and run one of the following commands:
 
 ```bash
 ipython notebook wrangle_act.ipynb
