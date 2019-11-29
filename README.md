@@ -37,3 +37,13 @@ The repo contains a .ipynb file that does the following:
 
 **Note** - Retweet count and favorite count were omitted using duplicated() function of Python. There wont be any interaction with Twitter accounts. The data will just be pulled to do data wrangling and create visualizations for performing useful insights
 
+### References
+https://chrisalbon.com/machine_learning/preprocessing_dates_and_times/select_date_and_time_ranges/
+
+https://stackoverflow.com/questions/14984119/python-pandas-remove-duplicate-columns
+
+https://stackoverflow.com/questions/13413590/how-to-drop-rows-of-pandas-dataframe-whose-value-in-a-certain-column-is-nan
+
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.astype.html 
+
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.melt.html
